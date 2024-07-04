@@ -13,5 +13,4 @@
 
 # Technology used:
 - React js
-- MongoDB
 - Express js
